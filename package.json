@@ -1,0 +1,9 @@
+{
+  "name": "node-rtmp",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+  	  "buffertools": "2.1.4",
+  	  "underscore.string": "1.1.5"
+  }
+}
